@@ -1,5 +1,6 @@
 [main]
 url="localhost:8080"
+method="GET"
 
 [args]
 
