@@ -1,6 +1,6 @@
 [main]
-url="localhost:8080"
-method="GET"
+url = "https://api.corona-19.kr/korea/?serviceKey=5vH8sL1K6PGxkbIMla4r3jnAEgRuZYFqi"
+method = "GET"
 
 [args]
 
